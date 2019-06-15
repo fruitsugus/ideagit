@@ -10,5 +10,6 @@ public class TestGit {
     }
     public void test(){
         int i = 0;
+        i += 1;
     }
 }
