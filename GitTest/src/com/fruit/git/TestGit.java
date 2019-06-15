@@ -8,6 +8,7 @@ public class TestGit {
         System.out.println("hello git");
         System.out.println("hello git");
         //test
+        System.out.println("另一次修改");
     }
     public void test(){
         int i = 0;
